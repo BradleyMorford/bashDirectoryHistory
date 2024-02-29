@@ -14,5 +14,5 @@ I have changed it to work in the bash shell, December 2023, enjoy Bradley Morfor
            alias cd=cdh                            # uncomment this line 
 
 ### 3)USAGE:
-       cd -l    # ("minus L" lower case) show a list your directory history, the first time it will be empty otherwise it will show a numbered list of directories.
+       cd -l    # ("minus L" lower case) show a numbered list of your directory history. The first time it will be empty otherwise it will show a numbered list of directories.
        cd -3    # cd to one of the numbered directories
